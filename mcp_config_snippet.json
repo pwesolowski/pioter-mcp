@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "pioter": {
+            "command": "node",
+            "args": [
+                "/Users/piotr/workspace/piotermcp/dist/index.js"
+            ]
+        }
+    }
+}

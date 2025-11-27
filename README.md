@@ -50,7 +50,7 @@ You can run the server locally for testing using the provided script:
 ./run_server.sh
 ```
 
-Note: The server communicates via `stdio` (standard input/output). It is designed to be run by an MCP client, not directly by a human in the terminal, although you will see it start up.
+Note: The server communicates via `stdio` (standard iasnput/output). It is designed to be run by an MCP client, not directly by a human in the terminal, although you will see it start up.
 
 
 ## Usage
